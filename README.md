@@ -1,4 +1,4 @@
-# Sending BEP20 tokens via the library web3.py
+# Sending BEP20 tokens web3.py
 WEB3.py SEND (Transfer) BEP20 token
 
 
