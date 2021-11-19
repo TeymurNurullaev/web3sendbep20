@@ -3,12 +3,9 @@ WEB3.py SEND (Transfer) BEP20 token
 
 
 send = 10
+adr_from = "0x9..."
+adr_to =  "0x3..."
+contractAddress = "0x4....."
+token_to_private_key = "..."
 
-token_from = "0x9...."
-
-token_to =  "0x3..."
-
-token_to_private_key = "...."
-
-
-sendBep20(send, token_from, token_to, token_to_private_key)
+sendBep20(send, adr_from, adr_to, contractAddress, token_to_private_key)
