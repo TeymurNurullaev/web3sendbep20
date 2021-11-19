@@ -26,9 +26,9 @@ def sendBep20(send, from_adr, to_adr, contractAddress, key):
     
 
 send = 10
-token_from = "0x9..."
-token_to =  "0x3..."
+adr_from = "0x9..."
+adr_to =  "0x3..."
 contractAddress = "0x4....."
 token_to_private_key = "..."
 
-sendBep20(send, token_from, token_to, contractAddress, token_to_private_key)
+sendBep20(send, adr_from, adr_to, contractAddress, token_to_private_key)
